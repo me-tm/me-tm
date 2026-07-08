@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @me-tm
-- 👀 I’m interested in web 3, UX & Innovation
-- 🌱 I’m currently learning web 3 basics
+- 👀 Digital Creative based in Stuttgart, Germany
 - 📫 How to reach me: Add me on twiiter: @me_tm
 
 <!---
